@@ -1,0 +1,15 @@
+/home/tsurutun3ad0/C#/Concesionaria/obj/Debug/net6.0/Concesionaria.csproj.AssemblyReference.cache
+/home/tsurutun3ad0/C#/Concesionaria/obj/Debug/net6.0/Concesionaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/tsurutun3ad0/C#/Concesionaria/obj/Debug/net6.0/Concesionaria.AssemblyInfoInputs.cache
+/home/tsurutun3ad0/C#/Concesionaria/obj/Debug/net6.0/Concesionaria.AssemblyInfo.cs
+/home/tsurutun3ad0/C#/Concesionaria/obj/Debug/net6.0/Concesionaria.csproj.CoreCompileInputs.cache
+/home/tsurutun3ad0/C#/Concesionaria/bin/Debug/net6.0/Concesionaria
+/home/tsurutun3ad0/C#/Concesionaria/bin/Debug/net6.0/Concesionaria.deps.json
+/home/tsurutun3ad0/C#/Concesionaria/bin/Debug/net6.0/Concesionaria.runtimeconfig.json
+/home/tsurutun3ad0/C#/Concesionaria/bin/Debug/net6.0/Concesionaria.dll
+/home/tsurutun3ad0/C#/Concesionaria/bin/Debug/net6.0/Concesionaria.pdb
+/home/tsurutun3ad0/C#/Concesionaria/obj/Debug/net6.0/Concesionaria.dll
+/home/tsurutun3ad0/C#/Concesionaria/obj/Debug/net6.0/refint/Concesionaria.dll
+/home/tsurutun3ad0/C#/Concesionaria/obj/Debug/net6.0/Concesionaria.pdb
+/home/tsurutun3ad0/C#/Concesionaria/obj/Debug/net6.0/Concesionaria.genruntimeconfig.cache
+/home/tsurutun3ad0/C#/Concesionaria/obj/Debug/net6.0/ref/Concesionaria.dll
